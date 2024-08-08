@@ -20,7 +20,7 @@ Bu veritabanını projelerinize entegre ederek, Türkiye'nin herhangi bir bölge
 
 ## Lisans
 
-Bu proje [GNU Genel Kamu Lisansı](LICENSE) ile lisanslanmıştır.
+Bu proje [GNU Genel Kamu Lisansı v3.0](LICENSE) ile lisanslanmıştır.
 
 ---
 
@@ -46,4 +46,4 @@ You can integrate this database into your projects to easily query postal code i
 
 ## License
 
-This project is licensed under the [GNU General Public License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
