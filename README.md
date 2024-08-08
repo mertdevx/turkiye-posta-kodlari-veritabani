@@ -1,2 +1,1 @@
-# turkiye-posta-kodu-veritabani
-Posta Kodu Veritabanı
+# Türkiye Posta Kodu Veritabanı
